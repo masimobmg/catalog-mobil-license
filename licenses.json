@@ -1,6 +1,8 @@
 {
   "7wdoHU-1XHzOl-6szC6g-vd4lgT-nJx4c4-MP2pln": {
     "allowedDeviceIDs": ["dd53efd60051dd36"],
+    "nearingExpiration": true,
+    "expires": "31.10.2023",
     "active": true
   }
 }
